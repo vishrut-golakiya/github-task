@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello from feature-2 branch
+=======
+hello from a2 file from feature1  branch
+hello from master branch
+>>>>>>> master
